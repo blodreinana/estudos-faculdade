@@ -7,14 +7,12 @@ Este espaço é dedicado ao armazenamento e versionamento de todos os exercício
 ## 🎓 Cursos em Andamento
 
 * **Ciência de Dados** - Uninter
-* **Engenharia Mecatrônica** - FIAP
 
 ## 📂 Como este repositório está organizado?
 
 Para facilitar a navegação, os arquivos estão divididos primeiramente por instituição/curso, e em seguida subdivididos por disciplinas ou semestres correspondentes. 
 
 * `/Uninter-Ciencia-de-Dados`: Códigos, listas de exercícios e trabalhos práticos com foco em análise, manipulação de dados e programação orientada a objetos.
-* `/FIAP-Eng-Mecatronica`: Projetos, simulações e códigos voltados para a engenharia mecatrônica.
 
 
 ---
